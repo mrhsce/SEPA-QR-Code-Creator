@@ -1,0 +1,34 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local generated QR code images
+sepa_qr_code.png
+payment_qr_code.png
+*_qr_code.png
+

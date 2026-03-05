@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Payment QR Code Creator
+Comment=Generate Payconiq payment QR codes
+Exec=/home/mrhs/workspace/misc/PaymentQRcreator/run.sh
+Icon=document-properties
+Terminal=false
+Categories=Utility;Finance;
+StartupNotify=true
